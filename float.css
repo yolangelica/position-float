@@ -1,0 +1,32 @@
+.contenedor{
+	background: #B45F04;
+	border: 1px solid black;
+	overflow:hidden; 
+}
+
+
+
+li{
+	float: left;
+	height: 140px;
+	margin: 20px;
+
+
+}
+.img1{
+	float: right;
+	width: 400px;
+	height:400px;
+	margin: 0em 2em;
+	border: 1px solid black;
+
+}
+.img2{
+	float: left;
+	width: 400px;
+	height: 400px;
+	margin: 0em 2em;
+	border: 1px solid black;
+
+
+}
