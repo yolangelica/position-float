@@ -1,3 +1,5 @@
+
+
 .contenedor{
 	background: #B45F04;
 	border: 1px solid black;
@@ -27,6 +29,23 @@ li{
 	height: 400px;
 	margin: 0em 2em;
 	border: 1px solid black;
-
+}
+h1, ul{
+	text-align: center;
+font-family: 'Amatic SC', cursive;
+}
+p{
+	font-family: 'Julius Sans One', sans-serif
+}
+span.fa-universal-access{
+	color:#B40431;
+	margin-right:20px;
+	font-size: 30px;
+}
+span.fa-facebook-square{
+	color:#0B0B61;
+	margin-right:20px;
+	font-size: 20px;
+	
 
 }
